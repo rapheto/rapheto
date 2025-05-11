@@ -1,9 +1,13 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🖥️ Aluno de Análise e Desenvolvimento de Sistemas - CESAR School<br>🎮 Formado em Jogos Digitais - UNICAP
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rapheto) [![email](	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rapheto@hotmail.com) [![itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://rapheto.itch.io/)
+## 🌐 Contatos:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rapheto) [![email](	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rapheto@hotmail.com) 
+
+
+## 🎮 Portifólio:
+[![itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://rapheto.itch.io/)
 
 
 # 💻 Tech Stack:
