@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rapheto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rapheto@hotmail.com) [![itch.io]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://static.itch.io/images/logo-white-new.svg))](https://rapheto.itch.io/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rapheto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rapheto@hotmail.com) [![itchio]([[https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://static.itch.io/images/logo-white-new.svg](https://static.itch.io/images/itchio-textless-black.svg)))](https://rapheto.itch.io/) 
 
 
 # 💻 Tech Stack:
