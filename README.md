@@ -1,8 +1,5 @@
 # 💫 Sobre mim:
-🖥️ Aluno de Análise e Desenvolvimento de Sistemas - CESAR School<br>🎮 Formado em Jogos Digitais - UNICAP
-
-
-Atualmente estou trabalhando como estagiário de QA e aprendendo sobre automação de tests<br>
+🖥️ Aluno de Análise e Desenvolvimento de Sistemas - CESAR School<br>🎮 Formado em Jogos Digitais - UNICAP<br>Atualmente estou trabalhando como estagiário de QA e aprendendo sobre automação de tests<br>
 
 
 ## 🌐 Contatos:
